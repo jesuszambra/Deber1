@@ -1,0 +1,15 @@
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\obj\Debug\net6.0\DeberdeNuestrodiseno.csproj.AssemblyReference.cache
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\obj\Debug\net6.0\DeberdeNuestrodiseno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\obj\Debug\net6.0\DeberdeNuestrodiseno.AssemblyInfoInputs.cache
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\obj\Debug\net6.0\DeberdeNuestrodiseno.AssemblyInfo.cs
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\obj\Debug\net6.0\DeberdeNuestrodiseno.csproj.CoreCompileInputs.cache
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\bin\Debug\net6.0\DeberdeNuestrodiseno.exe
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\bin\Debug\net6.0\DeberdeNuestrodiseno.deps.json
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\bin\Debug\net6.0\DeberdeNuestrodiseno.runtimeconfig.json
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\bin\Debug\net6.0\DeberdeNuestrodiseno.dll
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\bin\Debug\net6.0\DeberdeNuestrodiseno.pdb
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\obj\Debug\net6.0\DeberdeNuestrodiseno.dll
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\obj\Debug\net6.0\refint\DeberdeNuestrodiseno.dll
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\obj\Debug\net6.0\DeberdeNuestrodiseno.pdb
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\obj\Debug\net6.0\DeberdeNuestrodiseno.genruntimeconfig.cache
+C:\Users\jimev\source\repos\DeberdeNuestrodiseno\DeberdeNuestrodiseno\obj\Debug\net6.0\ref\DeberdeNuestrodiseno.dll
